@@ -61,5 +61,5 @@ Gather resources, craft, fight enemies that only come out at night, and become s
 
 **Active Development** – New updates every week!  
 Found a bug or have a cool idea? Feel free to open an issue or send a pull request!
-#Creator IBladeShadow
-Made with ❤️ in C++
+**Creator IBladeShadow**
+*Made with ❤️ in C++*
