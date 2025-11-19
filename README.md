@@ -21,20 +21,20 @@ Gather resources, craft, fight enemies that only come out at night, and become s
 ### Indev492 (November 19, 2025) – "Nightmare Update"
 - Added real day/night cycle
 - Enemies now spawn only at night + improved AI
-- Flashlight system with rechargeable battery
+- Flashlight system
 - New potions: Strength, Speed, Armor
-- Full shop system with merchant NPC
+- Full shop system with press B
 - Daily quests added
 - Fixed all crashes related to looting
 
 ### Indev481 (November 15, 2025)
-- Added shotgun + new animations
+- new animations
 - Major collision system overhaul
 - Added shooting and hit sound effects
 - Fixed inventory duplication bug
 
 ### Indev364 (November 10, 2025)
-- Completely rewrote chunk system – truly infinite world now!
+- Completely rewrote chunk system
 - Added water and swimming mechanics
 - Hotbar slots 1–5 implemented
 - Chests with persistent storage
