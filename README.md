@@ -12,7 +12,6 @@ Gather resources, craft, fight enemies that only come out at night, and become s
 - 4 weapons: Sword, Pistol, Rifle, Shotgun
 - Power potions: Strength, Speed, Armor
 - Shop system with NPC and daily quests
-- Full Persian (Farsi) and English language support
 - Auto-save and customizable keybinds
 
 ---
